@@ -1,6 +1,8 @@
-# Spis Treści
+## Spis Treści
 [Sytuacja Epidemiologiczna - Informacje Rzadowe](#rzadowe)
+
 [Sytuacja Epidemiologiczna - Agregatory stworzone przez wolontariuszy](#prywatne)
+
 [Linki do wikipedii](#wiki)
 
 
