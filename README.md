@@ -16,23 +16,19 @@
 
 ## Sytuacja Epidemiologiczna - Agregatory stworzone przez wolontariuszy
 
-[Arkusz GoogleDocs z sytuacja Epidemiologiczną](https://docs.google.com/spreadsheets/d/1ierEhD6gcq51HAm433knjnVwey4ZE5DCnu1bW7PRG3E/htmlview?usp=sharing&sle=true)
+[Arkusz GoogleDocs z sytuacja Epidemiologiczną PL](https://docs.google.com/spreadsheets/d/1ierEhD6gcq51HAm433knjnVwey4ZE5DCnu1bW7PRG3E/htmlview?usp=sharing&sle=true)
 
-[Link ](https://docs.google.com/spreadsheets/d/1Z7VQ5xlf3BaTx_LBBblsW4hLoGYWnZyog3jqsS9Dbgc/htmlview)
+[COVID2019.app - LIVE stats & graphs](https://docs.google.com/spreadsheets/d/1Z7VQ5xlf3BaTx_LBBblsW4hLoGYWnZyog3jqsS9Dbgc/htmlview)
 
 [gdziewirus.pl](https://www.gdziewirus.pl/)
 
 [kwirus.pl](https://kwirus.pl/)
 
-
-
 [koronawirusunas.pl](https://koronawirusunas.pl/)
 
-[Link ](https://gisexpert.maps.arcgis.com/apps/webappviewer/index.html?id=6f57704acac84a648f3d87ce6219b0a7)
+[Mapa](https://gisexpert.maps.arcgis.com/apps/webappviewer/index.html?id=6f57704acac84a648f3d87ce6219b0a7)
 
-[Link ](https://public.tableau.com/profile/mateusz.karmalski)
-
-
+[Mateusz Karmalski](https://public.tableau.com/profile/mateusz.karmalski)
 
 [Wykop - tag koronawirus](https://www.wykop.pl/tag/znaleziska/koronawirus/rss/)
 
