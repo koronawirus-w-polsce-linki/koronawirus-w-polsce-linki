@@ -1,4 +1,4 @@
-[***MAŁA LINKOWNIA KORONAWIRUSOWA***](https://www.wykop.pl/link/5384639/mala-linkownia-koronawirusowa/)
+***[MAŁA LINKOWNIA KORONAWIRUSOWA]***(https://www.wykop.pl/link/5384639/mala-linkownia-koronawirusowa/)
 
 
 ### AGREGATY SPOŁECZNOŚCIOWE ###
@@ -37,12 +37,12 @@
   - [Twitter RCZ Rządowego Centrum Bezpieczeństwa](https://twitter.com/RCB_RP)
   - [Twitter CIR Centrum Informacyjnego Rządu](https://twitter.com/KPRM_CIR)
   - [Twitter MZ Ministerstwa Zdrowia](https://twitter.com/MZ_GOV_PL)
-    - [Twitter NFZ](https://twitter.com/NFZ_Centrala)
+ 
   - [Twitter MSWiA](https://twitter.com/MSWiA_GOV_PL)
-    - [Twitter Straży Pożarnej](https://twitter.com/KGPSP)
-    - [Twitter Policji Polskiej](https://twitter.com/PolskaPolicja)
+  - [Twitter Straży Pożarnej](https://twitter.com/KGPSP)
+  - [Twitter Policji Polskiej](https://twitter.com/PolskaPolicja)
   - [Twitter MSZ](https://twitter.com/MSZ_RP)
-    - [Twitter Straży Granicznej](https://twitter.com/Straz_Graniczna)
+  - [Twitter Straży Granicznej](https://twitter.com/Straz_Graniczna)
 
 
 ### TEORIA z polskiej Wikipedii ###
@@ -53,7 +53,7 @@
     - [Hasło: SARS-CoV-2](https://pl.wikipedia.org/wiki/SARS-CoV-2)
   - [Hasło: Pandemia_wirusa_SARS-CoV-2](https://pl.wikipedia.org/wiki/Pandemia_wirusa_SARS-CoV-2)
     - [Hasło: Pandemia_wirusa_SARS-CoV-2_w_Polsce](https://pl.wikipedia.org/wiki/Pandemia_wirusa_SARS-CoV-2_w_Polsce)
-      - [Ustawa o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych](https://pl.wikipedia.org/wiki/Ustawa_o_szczeg%C3%B3lnych_rozwi%C4%85zaniach_zwi%C4%85zanych_z_zapobieganiem,_przeciwdzia%C5%82aniem_i_zwalczaniem_COVID-19,_innych_chor%C3%B3b_zaka%C5%BAnych_oraz_wywo%C5%82anych_nimi_sytuacji_kryzysowych)
+      - [Koronawirus Specustawa](https://pl.wikipedia.org/wiki/Ustawa_o_szczeg%C3%B3lnych_rozwi%C4%85zaniach_zwi%C4%85zanych_z_zapobieganiem,_przeciwdzia%C5%82aniem_i_zwalczaniem_COVID-19,_innych_chor%C3%B3b_zaka%C5%BAnych_oraz_wywo%C5%82anych_nimi_sytuacji_kryzysowych)
 
 
 ### TIPS & TRICKS ###
